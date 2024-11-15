@@ -30,7 +30,7 @@ If you discover a security vulnerability in [isherezahin.me], please report it a
 
 ## Contact Information
 
-For any questions regarding this security policy or to report a vulnerability, please contact us at [isherezahin@gmail.com].
+For any questions regarding this security policy or to report a vulnerability, please contact us at [isherezahin@gmail.com,itxtahseen@gmail.com].
 
-Thank you for helping us keep [isherezahin.me] secure!
+Thank you for helping us keep [isherezahin.me, itxtahseen@gmail.com] secure!
 

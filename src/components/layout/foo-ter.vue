@@ -16,8 +16,11 @@
             </div>
         </div>
 
-        <div class="copyright">
-            &copy; Copyright <strong><span><a class="tech-color" target="_blank" rel="noopener noreferrer" href="https://isherezahin.vercel.app/">Zahin</a></span></strong> 2024 • Got any feedback?
+        <div class="copyright credits">
+          For inquiries, contact me on 
+            <a href="https://t.me/xwvux" target="_blank" rel="noopener noreferrer">
+                Telegram
+            </a>
         </div>
         <div class="social-links d-flex justify-content-center">
             <a href="https://www.github.com/replase_with_your_username/" target="_blank"><i class="bi bi-github"></i></a>
@@ -26,10 +29,7 @@
             <a href="https://www.twitter.com/replase_with_your_username/" target="_blank"><i class="bi bi-twitter"></i></a>
         </div>
         <div class="credits">
-            For inquiries, contact me on 
-            <a href="replase_with_your_own" target="_blank" rel="noopener noreferrer">
-                Telegram
-            </a>
+          Coded by <a class="no-underline" target="_blank" rel="noopener noreferrer" href="https://github.com/isherezahin">Zahin</a> • Got any feedback?
         </div>
     </div>
   </footer>
