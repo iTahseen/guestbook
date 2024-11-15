@@ -5,7 +5,7 @@
         <h1 class="white-head fw-bold text-green-800">Uses</h1>
         <p>This is the equipment I currently use for gaming, programming, making videos, and every day.</p>
       </div>
-      <img src="../assets/img/home/about-shape-3.svg" loading="lazy" alt="" class="shape shape-3">
+      <img src="../assets/img/about-shape-3.svg" loading="lazy" alt="" class="shape shape-3">
     </section>
     <section class="laptop-section">
       <h2>Laptop</h2>
