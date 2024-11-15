@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "jsx": "preserve",
+    "lib": ["dom", "esnext"],
+    "types": ["vite/client"]
+  },
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "isherezahin.me",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/",
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@vercel/speed-insights": "^1.0.12",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "cobe": "^0.6.3",
+    "dompurify": "^3.1.7",
+    "firebase": "^10.13.1",
+    "pinia": "^2.1.7",
+    "sweetalert2": "^11.14.0",
+    "vue": "^3.4.26",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.8.0",
+    "@types/node": "^20.14.9",
+    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/parser": "^7.14.1",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli": "^5.0.8",
+    "@vue/eslint-config-prettier": "^9.0.0",
+    "@vue/test-utils": "^2.4.5",
+    "@vue/tsconfig": "^0.5.1",
+    "css-loader": "^7.1.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.23.0",
+    "jsdom": "^24.0.0",
+    "prettier": "^3.2.5",
+    "sass": "^1.77.6",
+    "vite": "^5.4.6",
+    "vite-plugin-vue-devtools": "^7.1.3",
+    "vitest": "^1.5.2",
+    "vue-loader": "^17.4.2"
+  }
+}
