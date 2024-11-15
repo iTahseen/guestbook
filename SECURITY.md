@@ -2,11 +2,11 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in [isherezahin.me], please report it as soon as possible. We appreciate your help in keeping our project secure.
+If you discover a security vulnerability in [iTahseen], please report it as soon as possible. We appreciate your help in keeping our project secure.
 
 ### Steps to Report a Vulnerability
 
-1. **Email Us**: Send an email with the details of the vulnerability to [isherezahin@gmail.com]. Please include as much information as possible, including a description of the vulnerability, the steps to reproduce it, and any potential impact.
+1. **Email Us**: Send an email with the details of the vulnerability to [itxtahseen@gmail.com]. Please include as much information as possible, including a description of the vulnerability, the steps to reproduce it, and any potential impact.
 2. **Use a Responsible Disclosure**: We request that you do not publicly disclose the vulnerability until we have had a chance to address it. This helps us to fix the issue before it is exposed to potential attackers.
 
 ### What to Include in Your Report
@@ -32,5 +32,5 @@ If you discover a security vulnerability in [isherezahin.me], please report it a
 
 For any questions regarding this security policy or to report a vulnerability, please contact us at [isherezahin@gmail.com,itxtahseen@gmail.com].
 
-Thank you for helping us keep [isherezahin.me, itxtahseen@gmail.com] secure!
+Thank you for helping us keep [itxtahseen@gmail.com] secure!
 
