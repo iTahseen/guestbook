@@ -11,8 +11,8 @@ const firebaseConfig = {
   projectId: "guestbook-3cbad",
   storageBucket: "guestbook-3cbad.firebasestorage.app",
   messagingSenderId: "153443758824",
-  appId: "1:153443758824:web:d1a55bd71ed6084de94f5d",
-  measurementId: "G-QHZE3R5VGW"
+  appId: "1:153443758824:web:b6e6c4ebc2bf7f9ae94f5d",
+  measurementId: "G-ZF8K1JP02N"
 };
 
 // Initialize Firebase
